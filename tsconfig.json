@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "experimentalDecorators": true,
+        "declaration": true,
+    },
+    "files": ["public_api.ts"],
+    "angularCompilerOptions": {
+        "flatModuleOutFile": "angular-library-webpack"
+    }
+}
